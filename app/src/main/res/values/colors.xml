@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00ACC1</color>
+    <color name="colorPrimaryDark">#097fb2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorbackground">#00ACC1</color>
+    <color name="white_two">#d8d8d8</color>
+    <color name="blackk">#111111</color>
+    <color name="dusty_teal">#519d91</color>
+    <color name="circle_on_map">#305bafa2</color>
+    <color name="warm_grey">#999999</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteee">#ECE4E4</color>
+    <color name="colorRouteLine">#FF4081</color>
+    <color name="dull_teal">#5bafa2</color>
+</resources>
